@@ -1,5 +1,7 @@
 import PokemonCard from "./components/PokemonCard.jsx"
 
+
+
 function App() {
   const pokemonList = [
     {
